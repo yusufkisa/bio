@@ -16,7 +16,7 @@
       </ul>
       <p><strong>Connect:</strong></p>
       <ul>
-        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a></li>
+        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a> with over 781K followers</li>
       </ul>
     </td>
   </tr>
