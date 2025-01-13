@@ -7,7 +7,7 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h2>Summary</h2>
-      <p><strong>Country:</strong>Turkish Republic of Northern Cyprus (TRNC).</p>
+      <p><strong>Country:</strong> Turkish Republic of Northern Cyprus.</p>
       <p><strong>Career:</strong> Investor, Businessman, Philanthropist</p>
       <p><strong>Books:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen available on the <a href="https://www.amazon.com/Yusuf-Kisa-Entrepreneur-Biography-Should-ebook/dp/B0CW1GCWX5" target="_blank" rel="noopener">Amazon Bookstore</a></p>
       <p><strong>Media:</strong></p>
