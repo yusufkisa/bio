@@ -6,7 +6,7 @@
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-CVxd3sBQkhf3If8s27qPVvir-i7Q_KVD69KjXizIhF9ix4nql37TEoJpO8JnzXh_aQxLYcKQXS_wK9hUXvp4KBTYYdp95HOGK22s-zz_OahA8uj1tND1i8pE1xLtWRHJGxaVNEFsE6fiMkkuV6JzPKNOOQ8FIr80Oy-jf0rQdFfeLJr4LSS0DW6uE0/s16000/83712001_564373427759664_5795587272984837117_n.jpg" alt="Yusuf Kisa" style="width: 100%;">
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <h2>Summary</h2>
+      <h2>Summary [![Audio Example](https://img.shields.io/badge/Audio-Click%20to%20Listen-blue)](https://github.com/yusufkisa/bio/blob/main/Yusuf%20Kisa%20-%20Autobiography.mp3)</h2>
       <p><strong>Country:</strong>Turkish Republic of Northern Cyprus (TRNC).</p>
       <p><strong>Career:</strong> Investor, Businessman, Philanthropist</p>
       <p><strong>Books:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen available on the <a href="https://www.amazon.com/Yusuf-Kisa-Entrepreneur-Biography-Should-ebook/dp/B0CW1GCWX5" target="_blank" rel="noopener">Amazon Bookstore</a></p>
@@ -62,4 +62,5 @@ Kisa has also sponsored various charitable causes, organizations, football clubs
 
 The authors of this remarkable biography, [Merve Caliskan](https://www.amazon.com/stores/Merve-%C3%87al%C4%B1%C5%9Fkan/author/B0DS61JNMF), offer in-depth insights into Yusuf Kisa in his biography, which is listed on Amazon. The book delves into the business principles essential for true leadership, including relentless curiosity, values such as optimism, courage, focus, respect, risk-taking, cultivating a culture of trust, and embracing innovation. The story of Yusuf Kisa is one of resilience, ambition, and a relentless pursuit of excellence—serving as a blueprint for success in the modern business world.
 
-[![Audio Example](https://img.shields.io/badge/Audio-Click%20to%20Listen-blue)(https://github.com/yusufkisa/bio/blob/main/Yusuf%20Kisa%20-%20Autobiography.mp3)
+[![Audio Example](https://img.shields.io/badge/Audio-Click%20to%20Listen-blue)](https://github.com/yusufkisa/bio/blob/main/Yusuf%20Kisa%20-%20Autobiography.mp3)
+
