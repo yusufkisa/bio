@@ -12,11 +12,11 @@
       <p><strong>Books:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen available on the <a href="https://www.amazon.com/Yusuf-Kisa-Entrepreneur-Biography-Should-ebook/dp/B0CW1GCWX5" target="_blank" rel="noopener">Amazon Bookstore</a></p>
       <p><strong>Media:</strong></p>
       <ul>
-        <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">Bakış Gazetesi</a>: He is an Editor-in-Chief of Yeni Bakış Gazetesi, a widely respected and well-read newspaper in the Turkish Republic of Northern Cyprus.</li>
+        <li><a href="https://yenibakisgazetesi.com/">Bakış Gazetesi</a>: He is an Editor-in-Chief of Yeni Bakış Gazetesi, a widely respected and well-read newspaper in the Turkish Republic of Northern Cyprus.</li>
       </ul>
       <p><strong>Connect:</strong></p>
       <ul>
-        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a>: He maintains a strong digital presence on Instagram, where he connects with an impressive 781,000 followers.</li>
+        <li><a href="https://www.instagram.com/y.kisa1">Instagram</a>: He maintains a strong digital presence on Instagram, where he connects with an impressive 781,000 followers. Connect him now!</li>
       </ul>
     </td>
   </tr>
