@@ -9,7 +9,7 @@
       <h2>Summary</h2>
       <p><strong>Country:</strong>Turkish Republic of Northern Cyprus (TRNC).</p>
       <p><strong>Career:</strong> Investor, Businessman, Philanthropist</p>
-      <p><strong>Books:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen available on the Amazon Bookstore.</p>
+      <p><strong>Books:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen available on the <a href="https://www.amazon.com/Yusuf-Kisa-Entrepreneur-Biography-Should-ebook/dp/B0CW1GCWX5" target="_blank" rel="noopener">Amazon Bookstore</a></p>
       <p><strong>Media:</strong></p>
       <ul>
         <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">Bakış Gazetesi</a>: He is an Editor-in-Chief of Yeni Bakış Gazetesi, a widely respected and well-read newspaper in the Turkish Republic of Northern Cyprus.</li>
