@@ -7,8 +7,8 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h2>Summary</h2>
-      <p><strong>Country:</strong> Namibia</p>
-      <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
+      <p><strong>Country:</strong> Northern Cyprus</p>
+      <p><strong>Career:</strong> Investor, Businessman,  Philanthropist</p>
       <p><strong>Skills:</strong> Python, BioPython, JavaScript, C++, HTML, CSS, React, Node.js, Markdown, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
       <p><strong>Projects:</strong></p>
       <ul>
@@ -17,9 +17,7 @@
       </ul>
       <p><strong>Connect:</strong></p>
       <ul>
-        <li>Email: nambilisamuel@gmail.com</li>
-        <li><a href="https://www.linkedin.com/in/nambilisamuel/">LinkedIn</a></li>
-        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Google Scholar</a></li>
+        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a></li>
       </ul>
     </td>
   </tr>
