@@ -62,9 +62,4 @@ Kisa has also sponsored various charitable causes, organizations, football clubs
 
 The authors of this remarkable biography, [Merve Caliskan](https://www.amazon.com/stores/Merve-%C3%87al%C4%B1%C5%9Fkan/author/B0DS61JNMF), offer in-depth insights into Yusuf Kisa in his biography, which is listed on Amazon. The book delves into the business principles essential for true leadership, including relentless curiosity, values such as optimism, courage, focus, respect, risk-taking, cultivating a culture of trust, and embracing innovation. The story of Yusuf Kisa is one of resilience, ambition, and a relentless pursuit of excellence—serving as a blueprint for success in the modern business world.
 
-<audio controls>
-  <source src="https://www.gifainc.net/wp-content/uploads/2025/01/Yusuf-Kisa-Autobiography.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
-
-
+[![Audio Example](https://img.shields.io/badge/Audio-Click%20to%20Listen-blue)](https://www.gifainc.net/wp-content/uploads/2025/01/Yusuf-Kisa-Autobiography.mp3)
