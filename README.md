@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp73cK3pP3Kf5PdeoiSjR7WOa5pup9m2ntr3rCee9xBtaqqWRvpPZPlaFCQgLGsMZUbPAPVvjd2NjsMjW5A2bsZrDjQAP7Qoc3R3RkJYlf3_R_UHvtGsLZM8QHfXrB6wzU_aqVdtPkYAgXXQEU5QcPj9XeY-4QeGro3-O_dneeFVFvcew8oIIHnx99wz0z/s16000/yusufkisa.png" alt="Yusuf Kisa" style="width: 100%;">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-i4iGSSdOeCHfh96Txd0udTta77uf6D3uOl5qcSf0xISUCJZq7-kyuZ6-eB7BVfQFc4XyyPtOrHeq5NMDtA0Gioy69RaQiAhb-Mk3vUYxAENSbToVfb3rzSRbAqbHf_Yx6PSxc-VTysXDvABITbWqx2PMDkjI32B8JXbgdwH87a7XC0yHP7_1h6KPfZEx/s16000/30656687_2007609589478074_5730297430193209344_n%20(1).jpg" alt="Yusuf Kisa" style="width: 100%;">
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h2>Summary</h2>
