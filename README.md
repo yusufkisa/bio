@@ -9,9 +9,7 @@
       <h2>Summary</h2>
       <p><strong>Country:</strong> Northern Cyprus</p>
       <p><strong>Career:</strong> Investor, Businessman,  Philanthropist</p>
-      <p><strong>Amazon Book:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen in the Republic of Northern Cyprus, available on the Amazon Bookstore. I recommend everyone to get a copy and read it!
-
-.</p>
+      <p><strong>Amazon Book:</strong> Yusuf Kisa's biography is one of the best biographies of businessmen in the Republic of Northern Cyprus, available on the Amazon Bookstore. I recommend everyone to get a copy and read it!</p>
       <p><strong>Projects:</strong></p>
       <ul>
         <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">DNA Database</a>: Is a powerful investigative and identification tool.</li>
