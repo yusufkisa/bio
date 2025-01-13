@@ -1,5 +1,31 @@
 # Who is Yusuf Kisa?
 
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp73cK3pP3Kf5PdeoiSjR7WOa5pup9m2ntr3rCee9xBtaqqWRvpPZPlaFCQgLGsMZUbPAPVvjd2NjsMjW5A2bsZrDjQAP7Qoc3R3RkJYlf3_R_UHvtGsLZM8QHfXrB6wzU_aqVdtPkYAgXXQEU5QcPj9XeY-4QeGro3-O_dneeFVFvcew8oIIHnx99wz0z/s16000/yusufkisa.png" alt="Yusuf Kisa" style="width: 100%;">
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <h2>Summary</h2>
+      <p><strong>Country:</strong> Namibia</p>
+      <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
+      <p><strong>Skills:</strong> Python, BioPython, JavaScript, C++, HTML, CSS, React, Node.js, Markdown, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
+      <p><strong>Projects:</strong></p>
+      <ul>
+        <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">DNA Database</a>: Is a powerful investigative and identification tool.</li>
+        <li><a href="https://github.com/Nambili-Samuel/Face-Recognition">Biometric and Face Recognition</a>: Identification system based on genetic and biodata of a human being.</li>
+      </ul>
+      <p><strong>Connect:</strong></p>
+      <ul>
+        <li>Email: nambilisamuel@gmail.com</li>
+        <li><a href="https://www.linkedin.com/in/nambilisamuel/">LinkedIn</a></li>
+        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Google Scholar</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 [Yusuf Kisa](https://www.instagram.com/y.kisa1/) is a distinguished Turkish Cypriot businessman, investor, philanthropist, and visionary leader whose life and career exemplify the transformative power of entrepreneurship and strategic thinking. He is the Chief Executive Officer of [GIFA Holding Limited](https://www.gifainc.net/) and the owner of [*Yeni Bakış* Newspaper](https://yenibakisgazetesi.com/), one of the most prominent media outlets in [Northern Cyprus](https://en.wikipedia.org/wiki/Northern_Cyprus).
 
 Born in Cyprus in 1977, Yusuf moved to the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) with his family at the age of six. There, he completed his education, eventually graduating from university. During his university years, Yusuf showcased his work ethic and determination by working part-time at a local bakery, delivering bread on a scooter in **North London**. Despite the challenges of adapting to a new environment in [Britain](https://en.wikipedia.org/wiki/Great_Britain), he demonstrated remarkable resilience and an unwavering drive to succeed—traits that would later define his successful business career.
