@@ -1,6 +1,6 @@
 # Who is Yusuf Kisa?
 
-Yusuf Kisa is a distinguished Turkish Cypriot businessman, investor, philanthropist, and visionary leader. His journey exemplifies the transformative power of entrepreneurship and strategic thinking.
+Yusuf Kisa is a distinguished Turkish Cypriot businessman, investor, philanthropist, and visionary leader. His journey exemplifies the transformative power of entrepreneurship and strategic thinking. Mr. Yusuf Kisa is the CEO of GIFA Holding and the owner of Yeni Bakış Newspaper, one of the most popular media outlets in Northern Cyprus. 
 
 Born in Cyprus in 1977, Yusuf relocated to the United Kingdom with his family at the age of six. There, he completed his schooling and later graduated from university. During his university years, Yusuf worked part-time at a local bakery, delivering bread on a scooter in North London. Despite facing challenges in adapting to a new environment in Britain, young Yusuf displayed remarkable resilience and determination to succeed in life.
 
@@ -14,13 +14,9 @@ He developed a thriving business center in Pyla offering consulting services to 
 
 Despite his unparalleled successes, Yusuf remains steadfast in his mission to propel his company to even greater heights, strengthening his position as a key player in the corporate world. Under his visionary leadership, the company's value has increasingly grown, earning him recognition as one of the most innovative CEOs in the consulting industry.
 
-## GIFA Holding
-
-Mr. Yusuf Kisa is the CEO of GIFA Holding and the owner of Yeni Bakış Newspaper, one of the most popular media outlets in Northern Cyprus. He took over leadership during one of the most challenging times, yet Yusuf was never intimidated. Instead, he doubled the company’s turnover while the company faced intensified competition and technological disruptions. His vision for the future was centered on key principles: persistence, prioritizing quality products, embracing technology rather than resisting it, and thinking outside the box. Under his guidance, the company transformed into a formidable international brand, inspiring those who seek to emulate his leadership style.
-
 ## Business Leadership
 
-Yusuf Kisa exemplifies transformative leadership, combining vision, courage, and integrity in a rare and impactful way. His leadership style is characterized by an unwavering commitment to excellence and an insatiable drive to push boundaries. This inspires not only his staff members but also aspiring other business leaders who want to emulate him.
+Yusuf Kisa exemplifies transformative leadership, combining vision, courage, and integrity in a rare and impactful way. His leadership style is characterized by an unwavering commitment to excellence and an insatiable drive to push boundaries. This inspires not only his staff members but also aspiring other business leaders who want to emulate him. He took over the company leadership during one of the most challenging times, yet Yusuf was never intimidated. Instead, he doubled the company’s turnover while the company faced intensified competition and technological disruptions. His vision for the future was centered on key principles: persistence, prioritizing quality products, embracing technology rather than resisting it, and thinking outside the box. Under his guidance, the company transformed into a formidable international brand, inspiring those who seek to emulate his leadership style.
 
 At the helm of Gifa Holding, Yusuf Kisa has fostered a culture of innovation, resilience, and business diversification. His visionary leadership has seen Gifa evolve into a dynamic conglomerate, spanning diverse sectors such as media, aviation, real estate, and agriculture. Under his leadership, the group of companies has not only achieved remarkable success but has also become a beacon of innovation and enterprise, setting new standards of excellence in every venture it undertakes.
 
