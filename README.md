@@ -1,8 +1,11 @@
 # Who is Yusuf Kisa?
 
-Yusuf Kisa is a distinguished Turkish Cypriot businessman, investor, philanthropist, and visionary leader whose life and career exemplify the transformative power of entrepreneurship and strategic thinking. He is the Chief Executive Officer of GIFA Holding Limited and the owner of Yeni Bakış Newspaper, one of the most prominent media outlets in Northern Cyprus.
+## Who is Yusuf Kisa?
 
-Born in Cyprus in 1977, Yusuf moved to the United Kingdom with his family at the age of six. There, he completed his education, eventually graduating from university. During his university years, Yusuf showcased his work ethic and determination by working part-time at a local bakery, delivering bread on a scooter in North London. Despite the challenges of adapting to a new environment in Britain, he demonstrated remarkable resilience and an unwavering drive to succeed, traits that would later define his business career.
+Yusuf Kisa is a distinguished Turkish Cypriot businessman, investor, philanthropist, and visionary leader whose life and career exemplify the transformative power of entrepreneurship and strategic thinking. He is the Chief Executive Officer of [GIFA Holding Limited](https://www.gifainc.net/) and the owner of *Yeni Bakış* Newspaper, one of the most prominent media outlets in Northern Cyprus.
+
+Born in Cyprus in 1977, Yusuf moved to the United Kingdom with his family at the age of six. There, he completed his education, eventually graduating from university. During his university years, Yusuf showcased his work ethic and determination by working part-time at a local bakery, delivering bread on a scooter in North London. Despite the challenges of adapting to a new environment in Britain, he demonstrated remarkable resilience and an unwavering drive to succeed—traits that would later define his business career.
+
 
 ## Returning to Northern Cyprus
 
