@@ -16,7 +16,7 @@
       </ul>
       <p><strong>Connect:</strong></p>
       <ul>
-        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a>: connect him with over 781K followers.</li>
+        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Instagram</a>: He maintains a strong digital presence on Instagram, where he connects with an impressive audience of over 781,000 followers.</li>
       </ul>
     </td>
   </tr>
