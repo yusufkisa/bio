@@ -16,7 +16,7 @@
       </ul>
       <p><strong>Connect:</strong></p>
       <ul>
-        <li><a href="https://www.instagram.com/y.kisa1">Instagram</a>: He maintains a strong digital presence on Instagram, where he connects with an impressive 781,000 followers. Connect him now!</li>
+        <li><a href="https://www.instagram.com/y.kisa1">Instagram</a>: He maintains a strong digital presence on Instagram, where he connects with an impressive 781,000 followers.</li>
       </ul>
     </td>
   </tr>
@@ -33,15 +33,16 @@ Born in Cyprus in 1977, Yusuf moved to the [United Kingdom](https://en.wikipedia
 
 With an unwavering commitment to his homeland, Yusuf Kisa made the pivotal decision to return to Northern Cyprus during a time when the country was striving for economic development while also grappling with challenges of political division and international recognition.
 
-Upon arriving on the island, he established his first consulting office in Pyla, a village in the Larnaca District, South Cyprus situated within the United Nations Buffer Zone. By choosing to open a business in this unique location, Yusuf demonstrated remarkable strategic thinking. He capitalized on the distinctive geopolitical advantages of Pyla with international connectivity, for taking this very bold step into uncharted territory, Yusuf Kisa solidified his reputation as a strategic business innovator.
+Upon arriving on the island, he established his first consulting office in [Pyla](https://www.pyla.com.cy/en.html), a village in the [Larnaca District](https://en.wikipedia.org/wiki/Larnaca_District), South Cyprus, situated within the United Nations Buffer Zone. By choosing to open a business in this unique location, Yusuf demonstrated remarkable strategic thinking. He capitalized on the distinctive geopolitical advantages of Pyla with international connectivity. For taking this bold step into uncharted territory, **Yusuf Kisa** solidified his reputation as a strategic business innovator.
 
-He developed a thriving business center in Pyla offering consulting services to local and international customers, employing over 200 people, and achieving an impressive annual turnover of €2,000,000,000.
-
-Despite his unparalleled successes, Yusuf remains steadfast in his mission to propel his company to even greater heights, strengthening his position as a key player in the corporate world. Under his visionary leadership, the company's value has increasingly grown, earning him recognition as one of the most innovative CEOs in the consulting industry.
+He developed a thriving business center in Pyla, offering consulting services to local and international customers, employing over **200 people**, and achieving an impressive annual turnover of **€2,000,000,000**. Despite his unparalleled successes, Yusuf remains steadfast in his mission to propel his company to even greater heights, strengthening his position as a key player in the corporate world. Under his visionary leadership, the company's value has increasingly grown, earning him yet another recognition as one of the most innovative CEOs in the [consulting industry](https://www.consultancy.eu/career/what-is-consulting).
 
 ## Business Leadership
 
-Yusuf Kisa exemplifies transformative leadership, combining vision, courage, and integrity in a rare and impactful way. His leadership style is characterized by an unwavering commitment to excellence and an insatiable drive to push boundaries. This inspires not only his staff members but also aspiring other business leaders who want to emulate him. He took over the company leadership during one of the most challenging times, yet Yusuf was never intimidated. Instead, he doubled the company’s turnover while the company faced intensified competition and technological disruptions. His vision for the future was centered on key principles: persistence, prioritizing quality products, embracing technology rather than resisting it, and thinking outside the box. Under his guidance, the company transformed into a formidable international brand, inspiring those who seek to emulate his leadership style.
+Yusuf Kisa exemplifies [transformative leadership](https://www.umassglobal.edu/news-and-events/blog/what-is-transformational-leadership#:~:text=A%20transformational%20leadership%20style%20inspires,leaders%20reach%20their%20full%20potential.), combining vision, courage, and integrity in a rare and impactful way. His leadership style is characterized by an unwavering commitment to excellence and an insatiable drive to push boundaries. This inspires not only his staff members but also aspiring business leaders who want to emulate him. He took over the company leadership during one of the most challenging times, yet Yusuf was never intimidated.
+
+Instead, he doubled GIFA Holding’s turnover while the company faced intensified competition and [technological disruptions](https://www.investopedia.com/terms/d/disruptive-technology.asp). His vision for the future was centered on key principles: persistence, prioritizing quality products, embracing technology rather than resisting it, and thinking outside the box. Under his guidance, the company transformed into a formidable international brand, inspiring those who seek to emulate his leadership style.
+
 
 At the helm of Gifa Holding, Yusuf Kisa has fostered a culture of innovation, resilience, and business diversification. His visionary leadership has seen Gifa evolve into a dynamic conglomerate, spanning diverse sectors such as media, aviation, real estate, and agriculture. Under his leadership, the group of companies has not only achieved remarkable success but has also become a beacon of innovation and enterprise, setting new standards of excellence in every venture it undertakes.
 
